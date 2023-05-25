@@ -28,5 +28,5 @@
   There are no tests for this project.
 
   ## Questions
-  If you have any questions, please contact me at ajbrook19@gmail.com. You can also find more of my work at [https://github.com/Norboro1]
+  If you have any questions, please contact me at ~~redacted~~. You can also find more of my work at [https://github.com/Norboro1]
   
